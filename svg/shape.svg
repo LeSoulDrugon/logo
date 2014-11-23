@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:cc="http://creativecommons.org/ns#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:svg="http://www.w3.org/2000/svg"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+     xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+     width="256"
+     height="256"
+     id="svg2"
+     version="1.1"
+     inkscape:version="0.48.5 r10040"
+     sodipodi:docname="lsd.svg">
+    <title
+         id="title3839">Le Soul Drugon</title>
+    <defs
+         id="defs4" />
+    <sodipodi:namedview
+         id="base"
+         pagecolor="#ffffff"
+         bordercolor="#666666"
+         borderopacity="1.0"
+         inkscape:pageopacity="0.0"
+         inkscape:pageshadow="2"
+         inkscape:zoom="1.4142136"
+         inkscape:cx="174.54332"
+         inkscape:cy="113.2294"
+         inkscape:document-units="px"
+         inkscape:current-layer="layer2"
+         showgrid="false"
+         showguides="true"
+         inkscape:guide-bbox="true" />
+    <metadata
+         id="metadata7">
+        <rdf:RDF>
+            <cc:Work
+                 rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                     rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <dc:title>Le Soul Drugon</dc:title>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title>Harenome Ranaivoarivony Razanajato</dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                    <cc:Agent>
+                        <dc:title>Harenome Ranaivoarivony Razanajato</dc:title>
+                    </cc:Agent>
+                </dc:rights>
+                <cc:license
+                     rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
+            </cc:Work>
+            <cc:License
+                 rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+                <cc:permits
+                     rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                     rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires
+                     rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires
+                     rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:prohibits
+                     rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+                <cc:permits
+                     rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires
+                     rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+        </rdf:RDF>
+    </metadata>
+    <g
+         inkscape:groupmode="layer"
+         id="layer3"
+         inkscape:label="Calque#1"
+         style="display:none"
+         sodipodi:insensitive="true">
+        <rect
+             style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+             id="rect3802"
+             width="276"
+             height="276"
+             x="-10"
+             y="-10"
+             rx="16.107382"
+             ry="16.107382" />
+    </g>
+    <g
+         inkscape:groupmode="layer"
+         id="layer6"
+         inkscape:label="horns">
+        <path
+             style="display:inline;fill:#c8c8c8;fill-opacity:1;stroke:none"
+             d="M 95,16 80,66 90,96 120,86 100,56 z"
+             id="path2999"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cccccc" />
+        <use
+             style="display:inline"
+             x="0"
+             y="0"
+             xlink:href="#path2999"
+             id="use3829"
+             transform="matrix(-1,0,0,1,256,0)"
+             width="256"
+             height="256" />
+    </g>
+    <g
+         inkscape:groupmode="layer"
+         id="layer10"
+         inkscape:label="mouth">
+        <path
+             style="display:inline;fill:#78ff05;fill-opacity:1;stroke:none"
+             d="m 70,201 5,11 53,14 0,-25 z"
+             id="path3791"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccccc" />
+        <use
+             style="display:inline"
+             x="0"
+             y="0"
+             xlink:href="#path3791"
+             id="use3837"
+             transform="matrix(-1,0,0,1,256,0)"
+             width="256"
+             height="256" />
+    </g>
+    <g
+         inkscape:groupmode="layer"
+         id="layer9"
+         inkscape:label="teeth">
+        <path
+             style="display:inline;fill:#e9e9e9;fill-opacity:1;stroke:none"
+             d="m 88,206 2,20 8,6 10,-4 8,-17 z"
+             id="path3007"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cccccc" />
+        <use
+             style="display:inline"
+             x="0"
+             y="0"
+             xlink:href="#path3007"
+             id="use3808"
+             transform="matrix(-1,0,0,1,256,0)"
+             width="256"
+             height="256" />
+    </g>
+    <g
+         inkscape:groupmode="layer"
+         id="layer2"
+         inkscape:label="head"
+         style="display:inline">
+        <use
+             x="0"
+             y="0"
+             xlink:href="#path2997"
+             id="use3835"
+             transform="matrix(-1,0,0,1,256,0)"
+             width="256"
+             height="256" />
+        <path
+             style="fill:#20b664;fill-opacity:1;stroke:none"
+             d="m 128,76 0,140 -58,-10 -10,-15 10,-15 16,-10 4,-33 4,-40 8,-10 z"
+             id="path2997"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cccccccccc" />
+    </g>
+    <g
+         inkscape:groupmode="layer"
+         id="layer7"
+         inkscape:label="nose"
+         style="display:inline">
+        <path
+             style="fill:#1b9c56;fill-opacity:1;stroke:none;display:inline"
+             d="m 72,190 -2,-18 16,-12 22,6 4,20 z"
+             id="path3011"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cccccc" />
+        <use
+             style="display:inline"
+             x="0"
+             y="0"
+             xlink:href="#path3011"
+             id="use3804"
+             transform="matrix(-1,0,0,1,256,0)"
+             width="256"
+             height="256" />
+    </g>
+    <g
+         inkscape:groupmode="layer"
+         id="layer8"
+         inkscape:label="nose holes">
+        <path
+             style="display:inline;fill:#000000;fill-opacity:1;stroke:none"
+             d="m 76,190 -2,-16 14,-10 18,6 2,16 -16,6 z"
+             id="path3003"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccccccc" />
+        <use
+             style="display:inline"
+             x="0"
+             y="0"
+             xlink:href="#path3003"
+             id="use3806"
+             transform="matrix(-1,0,0,1,256,0)"
+             width="256"
+             height="256" />
+    </g>
+    <g
+         inkscape:groupmode="layer"
+         id="layer5"
+         inkscape:label="eye lids"
+         style="display:inline">
+        <path
+             transform="matrix(0.89532946,0,0,1.1211784,-1.8705065,-11.670302)"
+             d="m 136.11806,94.249321 a 24.57196,19.622213 0 1 1 -49.143924,0 24.57196,19.622213 0 1 1 49.143924,0 z"
+             sodipodi:ry="19.622213"
+             sodipodi:rx="24.57196"
+             sodipodi:cy="94.249321"
+             sodipodi:cx="111.5461"
+             id="path3789"
+             style="fill:#20b664;fill-opacity:1;fill-rule:evenodd;stroke:none;display:inline"
+             sodipodi:type="arc" />
+        <use
+             style="display:inline"
+             x="0"
+             y="0"
+             xlink:href="#path3789"
+             id="use3831"
+             transform="matrix(-1,0,0,1,256,0)"
+             width="256"
+             height="256" />
+    </g>
+    <g
+         inkscape:groupmode="layer"
+         id="layer4"
+         inkscape:label="eyes"
+         style="display:inline">
+        <path
+             sodipodi:type="arc"
+             style="fill:#f5f5f5;fill-opacity:1;fill-rule:evenodd;stroke:none;display:inline"
+             id="path3015"
+             sodipodi:cx="111.5461"
+             sodipodi:cy="94.249321"
+             sodipodi:rx="24.57196"
+             sodipodi:ry="19.622213"
+             d="m 136.11806,94.249321 a 24.57196,19.622213 0 1 1 -49.143924,0 24.57196,19.622213 0 1 1 49.143924,0 z"
+             transform="matrix(0.81393587,0,0,1.0192531,7.2086307,-0.06391062)" />
+        <use
+             style="display:inline"
+             x="0"
+             y="0"
+             xlink:href="#path3015"
+             id="use3833"
+             transform="matrix(-1,0,0,1,256,0)"
+             width="256"
+             height="256" />
+    </g>
+</svg>
