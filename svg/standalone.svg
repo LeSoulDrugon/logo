@@ -28,10 +28,10 @@
          inkscape:pageopacity="0.0"
          inkscape:pageshadow="2"
          inkscape:zoom="1"
-         inkscape:cx="158.33131"
-         inkscape:cy="142.3264"
+         inkscape:cx="68.282717"
+         inkscape:cy="88.772625"
          inkscape:document-units="px"
-         inkscape:current-layer="layer6"
+         inkscape:current-layer="layer9"
          showgrid="false"
          showguides="true"
          inkscape:guide-bbox="true" />
@@ -56,6 +56,7 @@
                 </dc:rights>
                 <cc:license
                      rdf:resource="http://creativecommons.org/licenses/by-nc-nd/4.0/" />
+                <dc:identifier>https://github.com/LeSoulDrugon/logo</dc:identifier>
             </cc:Work>
             <cc:License
                  rdf:about="http://creativecommons.org/licenses/by-nc-nd/3.0/">
@@ -78,7 +79,7 @@
          inkscape:label="horns"
          style="display:inline">
         <path
-             style="fill:#f0f0f0;fill-opacity:1;stroke:none;display:inline;stroke-opacity:1;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+             style="fill:#ebebeb;fill-opacity:1;stroke:none;display:inline;stroke-opacity:1;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
              d="M 97,20 C 86.997218,37.325328 78.806671,52.027044 80,70 c 2.394447,17.83318 11.346649,25.003985 20,30 L 118,85 C 108.60922,81.605341 98.504407,68.33776 96,64 92.998847,58.801851 90.532346,44.137612 97,20 z"
              id="path2999"
              inkscape:connector-curvature="0"
@@ -97,13 +98,13 @@
              inkscape:connector-curvature="0"
              id="path3847"
              d="M 97,20 C 86.997218,37.325328 83.806671,52.027044 85,70 c 2.394447,17.83318 16.34665,25.003985 25,30 l 8,-15 C 108.60922,81.605341 98.504407,68.33776 96,64 92.998847,58.801851 90.532346,44.137612 97,20 z"
-             style="fill:#fafafa;fill-opacity:1;stroke:none;display:inline" />
+             style="fill:#f5f5f5;fill-opacity:1;stroke:none;display:inline" />
         <path
              sodipodi:nodetypes="cccccc"
              inkscape:connector-curvature="0"
              id="use3849"
              d="m 159,20 c 10.00278,17.325328 18.19333,32.027044 17,50 -2.39445,17.83318 -11.34665,25.003985 -20,30 L 143,85 c 9.39078,-3.394659 20.57656,-15.687645 22,-21 2.25384,-8.411442 0.46765,-19.862388 -6,-44 z"
-             style="fill:#fafafa;fill-opacity:1;stroke:none;display:inline" />
+             style="fill:#f5f5f5;fill-opacity:1;stroke:none;display:inline" />
     </g>
     <g
          inkscape:groupmode="layer"
@@ -125,7 +126,7 @@
          id="layer9"
          inkscape:label="teeth">
         <path
-             style="fill:#f0f0f0;fill-opacity:1;stroke:none;display:inline"
+             style="fill:#ebebeb;fill-opacity:1;stroke:none;display:inline"
              d="m 88,210 c 0.505724,5.98636 -0.01126,16.5164 2,20 0.761581,1.3191 6.973518,6 8,6 1.036005,0 9.40563,-2.97053 10,-4 3.09932,-3.94498 8,-11.96781 8,-17 z"
              id="path3007"
              inkscape:connector-curvature="0"
@@ -144,13 +145,13 @@
              inkscape:connector-curvature="0"
              id="use3859"
              d="m 167,210 c -0.50572,5.98636 1.0113,16.5164 -1,20 -0.76158,1.3191 -6.97352,6 -8,6 -3.05258,0 -13,-15.00194 -13,-25 z"
-             style="fill:#fafafa;fill-opacity:1;stroke:none;display:inline" />
+             style="fill:#f5f5f5;fill-opacity:1;stroke:none;display:inline" />
         <path
              sodipodi:nodetypes="ccccc"
              inkscape:connector-curvature="0"
              id="path3863"
              d="m 98,236 c 1.036005,0 9.40563,-2.97053 10,-4 3.09932,-3.94498 8,-11.96781 8,-17 l -21,-4 c -2.596669,9.6909 -1.307761,22.51291 3,25 z"
-             style="fill:#fafafa;fill-opacity:1;stroke:none;display:inline" />
+             style="fill:#f5f5f5;fill-opacity:1;stroke:none;display:inline" />
     </g>
     <g
          inkscape:groupmode="layer"
